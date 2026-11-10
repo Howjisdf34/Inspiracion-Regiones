@@ -1,0 +1,6 @@
+{
+  "name": "SpaceEdu",
+  "description": "Explore Earth, Venus, and Mars in an interactive full-viewport cinematic space education experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
